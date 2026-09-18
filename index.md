@@ -2,7 +2,7 @@
 
 **Last updated: September 18, 2026**
 
-Vidringo is an Android application developed by **Moyegal** that provides phone and call customization features, including contacts, recent calls, video and audio call customization, per-contact settings, Rest Mode, and rewarded advertising.
+Vidringo is an Android application developed by **Mollegal** that provides phone and call customization features, including contacts, recent calls, video and audio call customization, per-contact settings, Rest Mode, and rewarded advertising.
 
 This Privacy Policy explains what information Vidringo accesses, how it is used, and how it is handled.
 
@@ -17,7 +17,7 @@ This access is used to:
 * allow call customization for specific contacts;
 * select contacts that may bypass Rest Mode.
 
-Contact names and phone numbers are processed locally on your device. Vidringo does not upload your contact list to servers operated by Moyegal.
+Contact names and phone numbers are processed locally on your device. Vidringo does not upload your contact list to servers operated by Mollegal.
 
 Some contact identifiers and normalized phone numbers may be stored locally on the device when required for per-contact customization or Rest Mode.
 
@@ -27,7 +27,7 @@ When Vidringo is configured as the device's default phone application, it may re
 
 This access is used to display recent calls inside the app.
 
-Call history is read from the Android system when required and is not stored on servers operated by Moyegal.
+Call history is read from the Android system when required and is not stored on servers operated by Mollegal.
 
 Vidringo only accesses the call log while the application is acting as the device's default phone application and the required Android permission has been granted.
 
@@ -35,7 +35,7 @@ Vidringo only accesses the call log while the application is acting as the devic
 
 Vidringo may request permission to initiate telephone calls as part of its dialer functionality.
 
-Phone numbers used to place calls are processed through Android's phone and Telecom functionality. Moyegal does not operate a calling backend and does not receive the contents of your calls.
+Phone numbers used to place calls are processed through Android's phone and Telecom functionality. Mollegal does not operate a calling backend and does not receive the contents of your calls.
 
 ## 4. Videos and audio files
 
@@ -43,7 +43,7 @@ Users may select video or audio files stored on their device for call customizat
 
 Vidringo uses Android's system file picker to access files explicitly selected by the user.
 
-The selected video and audio files are processed locally and are not uploaded to servers operated by Moyegal.
+The selected video and audio files are processed locally and are not uploaded to servers operated by Mollegal.
 
 Vidringo may store a local reference to the selected file so that it can be used again for the configured call experience.
 
@@ -57,7 +57,7 @@ Vidringo stores some settings locally on the device, including:
 * selected media references;
 * application preferences.
 
-Vidringo does not currently provide user accounts and Moyegal does not operate a backend server for storing this information.
+Vidringo does not currently provide user accounts and Mollegal does not operate a backend server for storing this information.
 
 Depending on the user's Android and Google backup settings, some local application data may be included in Android's device backup or transfer mechanisms.
 
@@ -71,11 +71,11 @@ This information may be used by Google for purposes including advertising, analy
 
 Vidringo uses Google's consent mechanisms where required. When applicable, users can access Privacy Options from within the application to review or change available privacy choices.
 
-Moyegal does not directly receive your contact list, call history, selected videos, or selected audio files through the advertising system.
+Mollegal does not directly receive your contact list, call history, selected videos, or selected audio files through the advertising system.
 
 ## 7. Data sharing
 
-Moyegal does not sell your contacts, call history, phone numbers, videos or audio files.
+Mollegal does not sell your contacts, call history, phone numbers, videos or audio files.
 
 Data processed by Google Mobile Ads and related Google services is handled according to Google's own privacy practices.
 
@@ -107,7 +107,7 @@ The updated version will be published at this same location with a revised "Last
 
 ## 12. Contact
 
-Developer: **Moyegal**
+Developer: **Mollegal**
 
 For questions about this Privacy Policy or Vidringo's privacy practices:
 
@@ -119,7 +119,7 @@ For questions about this Privacy Policy or Vidringo's privacy practices:
 
 **Última actualización: 18 de septiembre de 2026**
 
-Vidringo es una aplicación para Android desarrollada por **Moyegal** que ofrece funciones de teléfono y personalización de llamadas, incluyendo contactos, llamadas recientes, personalización con vídeo y audio, configuraciones por contacto, Modo descanso y anuncios recompensados.
+Vidringo es una aplicación para Android desarrollada por **Mollegal** que ofrece funciones de teléfono y personalización de llamadas, incluyendo contactos, llamadas recientes, personalización con vídeo y audio, configuraciones por contacto, Modo descanso y anuncios recompensados.
 
 Esta Política de privacidad explica qué información utiliza Vidringo, con qué finalidad y cómo se trata.
 
@@ -134,7 +134,7 @@ Este acceso se utiliza para:
 * permitir la personalización de llamadas para contactos concretos;
 * seleccionar contactos que pueden evitar el silenciamiento del Modo descanso.
 
-Los nombres y números de teléfono se procesan localmente en tu dispositivo. Vidringo no sube tu agenda de contactos a servidores operados por Moyegal.
+Los nombres y números de teléfono se procesan localmente en tu dispositivo. Vidringo no sube tu agenda de contactos a servidores operados por Mollegal.
 
 Cuando es necesario para la personalización por contacto o el Modo descanso, algunos identificadores de contacto y números de teléfono normalizados pueden almacenarse localmente en el dispositivo.
 
@@ -144,7 +144,7 @@ Cuando Vidringo está configurada como aplicación de teléfono predeterminada d
 
 Este acceso se utiliza para mostrar las llamadas recientes dentro de la aplicación.
 
-El historial se consulta desde el sistema Android cuando es necesario y no se almacena en servidores operados por Moyegal.
+El historial se consulta desde el sistema Android cuando es necesario y no se almacena en servidores operados por Mollegal.
 
 Vidringo solo accede al registro de llamadas mientras actúa como aplicación de teléfono predeterminada y dispone del permiso de Android correspondiente.
 
@@ -152,7 +152,7 @@ Vidringo solo accede al registro de llamadas mientras actúa como aplicación de
 
 Vidringo puede solicitar permiso para iniciar llamadas telefónicas como parte de sus funciones de marcador.
 
-Los números utilizados para realizar llamadas se procesan mediante las funciones de telefonía y Telecom de Android. Moyegal no opera ningún servidor para gestionar las llamadas y no recibe el contenido de tus llamadas.
+Los números utilizados para realizar llamadas se procesan mediante las funciones de telefonía y Telecom de Android. Mollegal no opera ningún servidor para gestionar las llamadas y no recibe el contenido de tus llamadas.
 
 ## 4. Vídeos y archivos de audio
 
@@ -160,7 +160,7 @@ Los usuarios pueden seleccionar vídeos o archivos de audio almacenados en su di
 
 Vidringo utiliza el selector de archivos del sistema Android para acceder únicamente a archivos seleccionados expresamente por el usuario.
 
-Los vídeos y audios seleccionados se procesan localmente y no se suben a servidores operados por Moyegal.
+Los vídeos y audios seleccionados se procesan localmente y no se suben a servidores operados por Mollegal.
 
 Vidringo puede guardar localmente una referencia al archivo seleccionado para volver a utilizarlo en la configuración elegida.
 
@@ -174,7 +174,7 @@ Vidringo almacena determinadas configuraciones en el dispositivo, incluyendo:
 * referencias a archivos multimedia seleccionados;
 * preferencias de la aplicación.
 
-Actualmente Vidringo no utiliza cuentas de usuario y Moyegal no opera un servidor backend para almacenar esta información.
+Actualmente Vidringo no utiliza cuentas de usuario y Mollegal no opera un servidor backend para almacenar esta información.
 
 Dependiendo de la configuración de copia de seguridad de Android y Google del usuario, algunos datos locales de la aplicación pueden incluirse en mecanismos de copia de seguridad o transferencia del dispositivo.
 
@@ -188,11 +188,11 @@ Google puede utilizar esta información con fines que incluyen publicidad, anál
 
 Vidringo utiliza los mecanismos de consentimiento de Google cuando son necesarios. Cuando corresponda, el usuario puede acceder a **Opciones de privacidad** desde la propia aplicación para revisar o modificar las opciones disponibles.
 
-Moyegal no recibe directamente tu lista de contactos, historial de llamadas, vídeos seleccionados ni archivos de audio seleccionados a través del sistema publicitario.
+Mollegal no recibe directamente tu lista de contactos, historial de llamadas, vídeos seleccionados ni archivos de audio seleccionados a través del sistema publicitario.
 
 ## 7. Compartición de datos
 
-Moyegal no vende tus contactos, historial de llamadas, números de teléfono, vídeos ni archivos de audio.
+Mollegal no vende tus contactos, historial de llamadas, números de teléfono, vídeos ni archivos de audio.
 
 Los datos procesados por Google Mobile Ads y otros servicios relacionados de Google se gestionan de acuerdo con las propias prácticas de privacidad de Google.
 
@@ -224,7 +224,7 @@ La versión actualizada se publicará en esta misma ubicación indicando una nue
 
 ## 12. Contacto
 
-Desarrollador: **Moyegal**
+Desarrollador: **Mollegal**
 
 Para cualquier consulta relacionada con esta Política de privacidad o con las prácticas de privacidad de Vidringo:
 
